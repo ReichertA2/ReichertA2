@@ -1,5 +1,12 @@
 <img src="https://user-images.githubusercontent.com/85143577/178860474-abd801f3-dd20-4fd6-949d-0ec6285f06ef.png" alt="mybanner">
- Hi there 👋, I am Aydee Reichert
+ <h4>Hi there 👋, I am Aydee Reichert</h4>
+
+ 
+As a Full Stack Developer, I am creative, innovative and passionate about bringing solutions to challenging issues. I will continue to strive to improve and be better as a developer. Building the right team has always been essential to my continued success. I am interested in either both Front-End and Back-end. Enjoy how front-end brings the beauty of an application and love how backend makes the connection. 
+ 
+ ## 📫 Lets connect
+ <a href="https://www.linkedin.com/in/aydee-reichert"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile page"/></a>
+
 
 <!--
 **ReichertA2/ReichertA2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Lets connect
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -27,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres image">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python image">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react image">
-<h6>And Many More</h6>
+<h6>And Many More</h6> 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReichertA2&show_icons=true&theme=midnight-purple)](https://github.com/ReichertA2)
