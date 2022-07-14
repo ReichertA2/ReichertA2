@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/85143577/178860474-abd801f3-dd20-4fd6-949d-0ec6285f06ef.png" alt="mybanner">
+<img  src="https://user-images.githubusercontent.com/85143577/178860474-abd801f3-dd20-4fd6-949d-0ec6285f06ef.png" alt="mybanner">
  <h4>Hi there 👋, I am Aydee Reichert</h4>
-
  
 As a Full Stack Developer, I am creative, innovative and passionate about bringing solutions to challenging issues. I will continue to strive to improve and be better as a developer. Building the right team has always been essential to my continued success. I am interested in either both Front-End and Back-end. Enjoy how front-end brings the beauty of an application and love how backend makes the connection. 
  
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :briefcase:Skills
+## :briefcase:Favorite Skills 
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css image">
@@ -34,10 +33,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres image">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python image">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react image">
-<h6>And Many More</h6> 
 
 
+## 📈 GitHub Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReichertA2&show_icons=true&theme=midnight-purple)](https://github.com/ReichertA2)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReichertA2&hide=Jupyter%20Notebook&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/ReichertA2)
 
 
