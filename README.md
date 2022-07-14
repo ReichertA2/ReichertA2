@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui image">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask image">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres image">
-## And Many More
+<h6>
+And Many More
+</h6>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReichertA2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReichertA2&show_icons=true&theme=midnight-purple)](https://github.com/ReichertA2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReichertA2&hide=Jupyter%20Notebook&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/ReichertA2)
 
 
 
