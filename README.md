@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/85143577/178860474-abd801f3-dd20-4fd6-949d-0ec6285f06ef.png" alt="mybanner">
+ Hi there 👋, I am Aydee Reichert
 
 <!--
 **ReichertA2/ReichertA2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:briefcase:Skills
